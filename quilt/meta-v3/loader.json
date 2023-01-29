@@ -1,5 +1,143 @@
 [
     {
+        "build": 64,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.64",
+        "separator": ".",
+        "version": "0.18.1-beta.64"
+    },
+    {
+        "build": 63,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.63",
+        "separator": ".",
+        "version": "0.18.1-beta.63"
+    },
+    {
+        "build": 62,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.62",
+        "separator": ".",
+        "version": "0.18.1-beta.62"
+    },
+    {
+        "build": 60,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.60",
+        "separator": ".",
+        "version": "0.18.1-beta.60"
+    },
+    {
+        "build": 59,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.59",
+        "separator": ".",
+        "version": "0.18.1-beta.59"
+    },
+    {
+        "build": 58,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.58",
+        "separator": ".",
+        "version": "0.18.1-beta.58"
+    },
+    {
+        "build": 57,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.57",
+        "separator": ".",
+        "version": "0.18.1-beta.57"
+    },
+    {
+        "build": 56,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.56",
+        "separator": ".",
+        "version": "0.18.1-beta.56"
+    },
+    {
+        "build": 55,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.55",
+        "separator": ".",
+        "version": "0.18.1-beta.55"
+    },
+    {
+        "build": 54,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.54",
+        "separator": ".",
+        "version": "0.18.1-beta.54"
+    },
+    {
+        "build": 53,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.53",
+        "separator": ".",
+        "version": "0.18.1-beta.53"
+    },
+    {
+        "build": 52,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.52",
+        "separator": ".",
+        "version": "0.18.1-beta.52"
+    },
+    {
+        "build": 51,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.51",
+        "separator": ".",
+        "version": "0.18.1-beta.51"
+    },
+    {
+        "build": 50,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.50",
+        "separator": ".",
+        "version": "0.18.1-beta.50"
+    },
+    {
+        "build": 49,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.49",
+        "separator": ".",
+        "version": "0.18.1-beta.49"
+    },
+    {
+        "build": 48,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.48",
+        "separator": ".",
+        "version": "0.18.1-beta.48"
+    },
+    {
+        "build": 47,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.47",
+        "separator": ".",
+        "version": "0.18.1-beta.47"
+    },
+    {
+        "build": 10,
+        "maven": "org.quiltmc:quilt-loader:0.17.10",
+        "separator": ".",
+        "version": "0.17.10"
+    },
+    {
+        "build": 46,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.46",
+        "separator": ".",
+        "version": "0.18.1-beta.46"
+    },
+    {
+        "build": 45,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.45",
+        "separator": ".",
+        "version": "0.18.1-beta.45"
+    },
+    {
+        "build": 44,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.44",
+        "separator": ".",
+        "version": "0.18.1-beta.44"
+    },
+    {
+        "build": 43,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.43",
+        "separator": ".",
+        "version": "0.18.1-beta.43"
+    },
+    {
+        "build": 42,
+        "maven": "org.quiltmc:quilt-loader:0.18.1-beta.42",
+        "separator": ".",
+        "version": "0.18.1-beta.42"
+    },
+    {
         "build": 41,
         "maven": "org.quiltmc:quilt-loader:0.18.1-beta.41",
         "separator": ".",
